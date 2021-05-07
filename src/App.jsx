@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./css/style.css";
+import "./css/main.min.css";
 
 import Header from "./components/Header";
 import Realtors from "./components/Realtors";
