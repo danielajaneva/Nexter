@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Nexter/static/css/main.c54974df.chunk.css",
-    "main.js": "/Nexter/static/js/main.50c6d83e.chunk.js",
-    "main.js.map": "/Nexter/static/js/main.50c6d83e.chunk.js.map",
+    "main.css": "/Nexter/static/css/main.e2393d89.chunk.css",
+    "main.js": "/Nexter/static/js/main.7ed949d7.chunk.js",
+    "main.js.map": "/Nexter/static/js/main.7ed949d7.chunk.js.map",
     "runtime-main.js": "/Nexter/static/js/runtime-main.c54b49ff.js",
     "runtime-main.js.map": "/Nexter/static/js/runtime-main.c54b49ff.js.map",
     "static/js/2.2e6f420a.chunk.js": "/Nexter/static/js/2.2e6f420a.chunk.js",
     "static/js/2.2e6f420a.chunk.js.map": "/Nexter/static/js/2.2e6f420a.chunk.js.map",
     "index.html": "/Nexter/index.html",
-    "static/css/main.c54974df.chunk.css.map": "/Nexter/static/css/main.c54974df.chunk.css.map",
+    "static/css/main.e2393d89.chunk.css.map": "/Nexter/static/css/main.e2393d89.chunk.css.map",
     "static/js/2.2e6f420a.chunk.js.LICENSE.txt": "/Nexter/static/js/2.2e6f420a.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/Nexter/static/media/hero.fceecff8.jpeg",
+    "static/media/main.min.css": "/Nexter/static/media/hero.fceecff8.jpeg",
     "static/media/gal-1.f3402a16.jpeg": "/Nexter/static/media/gal-1.f3402a16.jpeg",
     "static/media/gal-10.48d20264.jpeg": "/Nexter/static/media/gal-10.48d20264.jpeg",
     "static/media/gal-11.29b2e94d.jpeg": "/Nexter/static/media/gal-11.29b2e94d.jpeg",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.c54b49ff.js",
     "static/js/2.2e6f420a.chunk.js",
-    "static/css/main.c54974df.chunk.css",
-    "static/js/main.50c6d83e.chunk.js"
+    "static/css/main.e2393d89.chunk.css",
+    "static/js/main.7ed949d7.chunk.js"
   ]
 }
